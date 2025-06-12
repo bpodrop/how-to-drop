@@ -13,6 +13,15 @@ Whether you're setting up automated deployment pipelines or optimizing embedded 
 | Title                                         | Description                                 |
 |----------------------------------------------|---------------------------------------------|
 | [Deploy Static Website via FTP](howto/github-deploy-via-ftp-EN.md) | GitHub Actions workflow to FTP-deploy a `www/` folder |
+| [Déployer un site statique via FTP](howto/github-deploy-via-ftp-FR.md) | Workflow GitHub Actions pour déployer un dossier www/ via FTP |
+| [Counter API with Cloudflare Workers](howto/cloudflare-simple-API-worker-EN.md) | Minimal REST API example using Workers and KV |
+| [API de compteur Cloudflare Workers](howto/cloudflare-simple-API-worker-FR.md) | Exemple simple d'API REST avec Cloudflare Workers et stockage KV |
+
+## 💬 Feedback & Contributions
+
+Suggestions, corrections, or additional insights are very welcome.  
+This repository is meant to share humble, real-world mini-guides — born from day-to-day engineering experience.  
+Feel free to submit improvements via issues or pull requests!
 
 ## 🧭 Philosophy
 
