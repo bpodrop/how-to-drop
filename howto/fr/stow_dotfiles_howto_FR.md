@@ -1,5 +1,5 @@
 ---
-title: Guide pratique : Gérer vos dotfiles avec Git et GNU Stow
+title: Gérer vos dotfiles avec Git et GNU Stow
 lang: fr
 tags: [git, dotfiles, stow]
 created: 2025-07-27
