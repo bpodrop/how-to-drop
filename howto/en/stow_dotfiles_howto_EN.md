@@ -1,12 +1,23 @@
-# Practical Guide: Managing Dotfiles with Git and GNU Stow
+---
+title: Practical Guide: Managing Dotfiles with Git and GNU Stow
+lang: en
+tags: [git, dotfiles, stow]
+created: 2024-10-12
+updated: 2025-07-27
+---
 
-## Goal
+# 🚀 Practical Guide: Managing Dotfiles with Git and GNU Stow
+
+## 🎯 Goal
 
 This how‑to shows how to centralize and deploy your personal configuration files (dotfiles) using a **Git** repository together with **GNU Stow** so you can share them effortlessly across machines.
 
-## Prerequisites
+## 🧰 Requirements
+### 🖥️ Environment
+- Recommended OS: Linux / macOS / Windows WSL
 
-### Required tools
+
+### 📦 Required tools
 
 - **git**
 - **stow**
