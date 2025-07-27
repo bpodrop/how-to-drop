@@ -1,6 +1,16 @@
+---
+title: Déployer un site statique depuis GitHub via FTP
+lang: fr
+tags: [ftp, déploiement, github-actions]
+created: 2025-07-27
+updated: 2025-07-27
+---
+
 # 🚀 Déployer un site statique depuis GitHub via FTP
 
-Déployer automatiquement un site statique vers un serveur FTP peut grandement simplifier vos workflows de publication. Dans ce guide, nous allons configurer une **GitHub Action** pour envoyer le contenu d’un dossier (`www` par exemple) vers un serveur distant à chaque *push* sur la branche `main`.
+## 🎯 Objectif
+
+Configurer **GitHub Actions** pour publier automatiquement le contenu du dossier `www/` sur un serveur FTP à chaque *push* sur la branche `main`.
 
 ---
 

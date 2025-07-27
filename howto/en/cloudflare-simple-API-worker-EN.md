@@ -1,3 +1,11 @@
+---
+title: Counter API with Cloudflare Workers
+lang: en
+tags: [cloudflare, api, rest]
+created: 2024-10-12
+updated: 2025-07-27
+---
+
 
 # 🚀 Mini Guide — Counter API with Cloudflare Workers
 
@@ -9,6 +17,16 @@ Build a REST API using Cloudflare Workers with:
 - KV storage backend
 - Auto-generated OpenAPI spec
 - Full CORS support for frontend usage (SPA, mini-game...)
+## 🧰 Requirements
+
+### 🖥️ Environment
+- Recommended OS: Linux / macOS / Windows WSL
+- Cloudflare account
+
+### 📦 Required tools
+- Node.js & npm
+- Wrangler CLI
+
 
 ## 🛠️ Tech Stack
 

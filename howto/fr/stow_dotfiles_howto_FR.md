@@ -1,6 +1,14 @@
-# Guide pratique : Gérer vos dotfiles avec Git et GNU Stow
+---
+title: Guide pratique : Gérer vos dotfiles avec Git et GNU Stow
+lang: fr
+tags: [git, dotfiles, stow]
+created: 2025-07-27
+updated: 2025-07-27
+---
 
-## Objectif
+# 🚀 Guide pratique : Gérer vos dotfiles avec Git et GNU Stow
+
+## 🎯 Objectif
 
 Ce tutoriel explique comment centraliser et déployer vos fichiers de configuration (“dotfiles”) à l’aide d’un dépôt **Git** et de **GNU Stow**, afin de les partager facilement entre plusieurs machines.
 

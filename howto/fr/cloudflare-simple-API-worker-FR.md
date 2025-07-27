@@ -1,3 +1,10 @@
+---
+title: API REST de compteur avec Cloudflare Workers
+lang: fr
+tags: [cloudflare, api, rest]
+created: 2025-07-27
+updated: 2025-07-27
+---
 
 # 🚀 Mini Guide — API REST de compteur avec Cloudflare Workers
 
