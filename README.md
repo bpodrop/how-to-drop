@@ -10,12 +10,17 @@ Whether you're setting up automated deployment pipelines or optimizing embedded 
 
 ## 📂 Available Guides
 
-| Title                                         | Description                                 |
-|----------------------------------------------|---------------------------------------------|
-| [Deploy Static Website via FTP](howto/github-deploy-via-ftp-EN.md) | GitHub Actions workflow to FTP-deploy a `www/` folder |
-| [Déployer un site statique via FTP](howto/github-deploy-via-ftp-FR.md) | Workflow GitHub Actions pour déployer un dossier www/ via FTP |
-| [Counter API with Cloudflare Workers](howto/cloudflare-simple-API-worker-EN.md) | Minimal REST API example using Workers and KV |
-| [API de compteur Cloudflare Workers](howto/cloudflare-simple-API-worker-FR.md) | Exemple simple d'API REST avec Cloudflare Workers et stockage KV |
+### In English
+
+- [Deploy Static Website via FTP](howto/en/github-deploy-via-ftp-EN.md) – GitHub Actions workflow to FTP-deploy a `www/` folder
+- [Counter API with Cloudflare Workers](howto/en/cloudflare-simple-API-worker-EN.md) – Minimal REST API example using Workers and KV
+- [Practical Guide: Managing Dotfiles with Git and GNU Stow](howto/en/stow_dotfiles_howto_EN.md) – Manage configuration files across machines
+
+### En français
+
+- [Déployer un site statique via FTP](howto/fr/github-deploy-via-ftp-FR.md) – Workflow GitHub Actions pour déployer un dossier `www/` via FTP
+- [API de compteur Cloudflare Workers](howto/fr/cloudflare-simple-API-worker-FR.md) – Exemple simple d'API REST avec Cloudflare Workers et stockage KV
+- [Guide pratique : Gérer vos dotfiles avec Git et GNU Stow](howto/fr/stow_dotfiles_howto_FR.md) – Centraliser et déployer vos fichiers de configuration
 
 ## 💬 Feedback & Contributions
 
